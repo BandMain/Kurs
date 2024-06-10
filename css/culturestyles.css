@@ -1,0 +1,19 @@
+
+h1 {
+    font-family: 'Colonna MT';
+    font-size: 40px;
+    font-weight:bold;
+    background: rgb(204,249,252);
+    background: linear-gradient(0deg, rgba(204,249,252,1) 0%, rgba(255,255,255,1) 100%);
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-family:'Bookman Old Style';
+    background-color: white;
+    line-height: 40px;
+    color: black;
+    font-size: 30px;
+    padding-top: 30px;
+    font-weight: 100;
+}

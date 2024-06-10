@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Book Antiqua';
+    font-size: 40px;
+    background-color: white;
+    padding-bottom: 5px;
+}
+
+h2 {
+    background-color: white;
+    line-height: 40px;
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    padding-top: 30px;
+    font-weight: 500;
+}

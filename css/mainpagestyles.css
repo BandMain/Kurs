@@ -1,0 +1,28 @@
+
+a.next {
+    font-size: 35px;
+    transition: 0.4s;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a.next:hover {
+    font-size: 40px;
+}
+
+h1 {
+    font-family: 'Book Antiqua';
+    font-size: 40px;
+    background-color: white;
+    padding-bottom: 5px;
+}
+
+h2 {
+    background-color: white;
+    line-height: 40px;
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    padding-top: 60px;
+    font-weight: 500;
+}

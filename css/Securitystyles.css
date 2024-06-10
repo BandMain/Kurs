@@ -1,0 +1,27 @@
+h1 {
+    text-align:center;
+    font-family: 'Book Antiqua';
+    font-size: 40px;
+    background-color: white;
+    padding-bottom: 5px;
+}
+
+h2 {
+    background-color: white;
+    line-height: 40px;
+    color: black;
+    font-size: 30px;
+    padding-top: 15px;
+    font-weight: 500;
+}
+
+img {
+    transition: 0.2s;
+}
+img:hover{
+    transform:scale(1.2);
+}
+table td{
+    font-size:25px;
+    vertical-align:middle;
+}
